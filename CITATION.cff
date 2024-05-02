@@ -1,1 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Biology 102 Final Project - Tomato Disease Classifier
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Isaac
+    family-names: Taylor
+    email: isaactay@umich.edu
+    name-particle: Isaac
+repository-code: 'https://github.com/i-taylor/BIOLOGY102_FINAL/tree/main'
 
